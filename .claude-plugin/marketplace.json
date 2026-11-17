@@ -1,0 +1,13 @@
+{
+  "name": "agent-stack-marketplace",
+  "owner": { "name": "Moritz" },
+  "description": "Spec-driven, self-improving agent workflow for Claude Code",
+  "plugins": [
+    {
+      "name": "agent-stack",
+      "source": "./plugins/agent-stack",
+      "description": "PM -> Architect -> Build, with codebase onboarding, project memory and agent self-improvement",
+      "version": "1.0.0"
+    }
+  ]
+}

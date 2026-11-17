@@ -1,0 +1,7 @@
+{
+  "name": "agent-stack",
+  "version": "1.0.0",
+  "description": "PM -> Architect -> Build, with codebase onboarding, project memory and agent self-improvement",
+  "author": { "name": "Moritz" },
+  "license": "UNLICENSED"
+}
